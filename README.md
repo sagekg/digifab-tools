@@ -12,7 +12,7 @@ The code in the folder weighted-voronoi/ was wrtten by Nicolas P. Rougier under 
 
 ## Pre-requisites
 
-This replication has been written and tested on OSX 10.12 (Sierra) using the
+This replication has been written and tested on OSX 10.12 (Sierra) amd Ubuntu 18.10 using the
 following packages:
 
  * Python 3.6.0
