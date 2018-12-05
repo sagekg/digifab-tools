@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 # tspart.py
 # 3/7/2012
 #

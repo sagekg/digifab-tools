@@ -93,7 +93,7 @@ if __name__ == '__main__':
         "n_point": 25000,
         "n_iter": 50,
         "threshold": 255,
-        "force": False,
+        "force": True,
         "save": True,
         "figsize": 6,
         "display": False,

@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 # tspsolution.py
 # 9/26/2010-A
 
