@@ -8,7 +8,7 @@ This scripts tspart.py, tspbitcity.py, and tspsolution.py were all written by Da
 To make this work, you'll also need the Linkern executable from the University of Waterloo's Concorde TSP solver. On Linux (I'm running Ubuntu 18.10), I just downloaded the [Concorde source code](http://www.math.uwaterloo.ca/tsp/concorde/downloads/downloads.htm), and copied the Linkern executable (in LINKERN/) to /usr/local/bin/. I included Linkern here for ease of use. For further installation information, including for Windows and OS X, see [the Evil Mad Scientist Wiki solver page](https://wiki.evilmadscientist.com/Obtaining_a_TSP_solver).
 
 # Weighted Voronoi
-The code in the folder weighted-voronoi/ was wrtten by Nicolas P. Rougier under a BSD license. It was published in ReScience in 2017.
+The code in the folder weighted-voronoi/ was wrtten by Nicolas P. Rougier under a BSD license. It was published in ReScience in 2017. More information can be found in its [repository](https://github.com/ReScience-Archives/Rougier-2017/).
 
 ## Pre-requisites
 
@@ -22,8 +22,6 @@ following packages:
  * tqdm 4.11.2
  * Pillow 4.0.0
 
-Original data is in the data directory and you can also obtain it from
-[Adrian Secord homepage](http://cs.nyu.edu/~ajsecord/npar2002/StipplingOriginals.zip).
 
 ## Usage
 
