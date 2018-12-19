@@ -100,3 +100,4 @@ This takes a file and maps each of the colors in the image to the closest of one
  * Geyscale an image and make the max value a good one for doing a traveling salesman
  * Normalize peak brightness across an iamge
  * Added customization to stippler.py, such as adding a white cutoff, color inversion, etc.
+ * Add cleaning to vinyl color conversion such as speckle suppression, color limitation, etc.
