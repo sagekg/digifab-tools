@@ -1,5 +1,5 @@
-# Laser Tools
-Programs to help with making cool stuff on a laser cutter. Future code will include a TSP solver, a weighted stippler, and maybe also some basic useful image editing tools.
+# Digital Fabrication Tools
+Programs to help with making cool stuff on a laser cutter and other [MLab](grinnellmakerlab.org) tools.
 
 ## Traveling Salesman
 This scripts tspart.py, tspbitcity.py, and tspsolution.py were all written by Daniel C. Newman for the Eggbot project. They are all under a GNU GPL 2+ license. For specific documentation see [the Evil Mad Scientist Wiki](https://wiki.evilmadscientist.com/Generating_TSP_art_from_a_stippled_image). These have been deprecated in favor of [StippleGen 2](https://github.com/evil-mad/stipplegen). For more about them, you can also go to https://github.com/evil-mad/stipplegen.
