@@ -84,6 +84,16 @@ Potrace has a number of command line arguments which are available. To read more
  ** I vary this between 0 and 2. 0 makes all small points triangular. Values in the 1-1.3 range make things nicely smooth. Values above 4/3 lead to the corners getting rounded over.
  * -t: speckle compression size (px)
 
+### Vinyl Color Conversion
+```
+ ./vinyl_color_convert file
+ 
+ positional arguments:
+  file                  
+ ```
+ 
+This takes a file and maps each of the colors in the image to the closest of one of twelve colors. The twelve colors are those of vinyl that are carried by the [Grinnell Maker Lab](grinnellmakerlab.org). The list of possible colors is [here](https://www.uscutter.com/common/images/products/large/Orafol-Oracal-631-Vinyl-2017-Colors.jpg). Also on the Oracal website is a list of each of their vinyl colors and the rgb, cmyk, and hex mappings for those. An example of an image which was converted is in the /imageTools/vinylIms/ folder. colorized.jpg is the full image, and each of the other ones only includes a single color of vinyl so it can be loaded onto the cutter on its own to just make that part of a sticker.
+
 ## Future Work
  This is very much all a work in progress. Below is a list of some new stuff I'm hoping to add in the future.
  
